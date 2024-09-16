@@ -1,3 +1,4 @@
+ls
 cd src
 rm -rf maliciousFiles
 mkdir secretDir
